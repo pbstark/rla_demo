@@ -1,4 +1,4 @@
-## Materials
+## RLA Demo Materials
 
 + voted ballot cards
     - there are 100 ballot cards
@@ -6,12 +6,13 @@
     - each card should have a vote for at most one candidate
     - if a card does not show a vote for any candidate, it is an _undervote_: it does not count as a vote for any candidate
     - if a card has a mark for more than one candidate, it is an _overvote_: it does not count as a vote for any candidate
-+ reported results: the number of valid votes each candidate was reported to have received. 
++ reported results: the number of valid votes each candidate received, according to the voting system
 + ballot manifest
-    - explains how the ballot cards are stored:
+    - explains how the ballot cards are stored
     - for each precinct, lists the number of ballot cards and the serial number range of those cards
+    - in a real audit, the manifest should be based on physical inventories and ballot accounting, *not* on voting system reports
 + two 10-sided dice of different colors
-+ audit log and worksheet (below)
++ audit worksheet and log
 + a pen
 
 ## Instructions
@@ -21,8 +22,9 @@ The goal of the audit is to check whether Alice really won.
 If she did, the audit will usually stop without looking at every ballot card. 
 If Alice did _not_ really win, the audit has a large chance of leading to a full hand count to determine who did win.)
 
-The audit examines randomly selected ballot cards; it does not use information from the electronic voting system.
-This type of audit is called "ballot polling."
+This audit demo involves manually reading votres from randomly selected ballot cards.
+it does not use information from the electronic voting system.
+This type of RLA is called "ballot polling."
 (There are RLA methods that use other information from the voting system, for instance, vote subtotals for precincts
 or the machines' record of the votes on individual ballot cards.)
 Ballot polling has similarities to an exit poll, except that instead of asking people how they voted, 
