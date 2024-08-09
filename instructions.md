@@ -40,16 +40,17 @@ This demo uses sampling _with_ replacement so that the calculations can be done 
 If the same card is selected more than once, there is no need to _retrieve_ it more than once: 
 you already know what vote it shows.
 
-For this demo, the expected number of cards you need to inspect to confirm the outcome is about 48, 
+For this demo, the expected number of cards you need to inspect to confirm the outcome is about 47, 
 including duplicates. 
-Because the sample is drawn with replacement, the audit workload depends on the candidates _shares_
+(The chance the the number of cards will be 75 or more is about 17.5%.)
+Because the sample is drawn with replacement, the audit workload depends on the candidates' _shares_
 of the vote, not on the total number of votes or cards cast.
 That is, the number of draws required to confirm the outcome would be expected to be 
-about 48 cards whether there were 100 ballot cards
+about 47 cards whether there were 100 ballot cards
 or 1,000,000 ballot cards in the election.
 The only difference is that when the election is smaller, it's more likely that the sample will contain
 the same card more than once, so the number of cards that have to be _retrieved_ is expected to be smaller.
-Of course, 48 is a much larger fraction of 100 than it is of 1,000,000.
+Of course, 47 is a much larger fraction of 100 than it is of 1,000,000.
 
 The audit is conducted using two running totals, both of which start at zero.
 One running total summarizes the evidence that Alice got more votes than Bob. 
@@ -66,8 +67,10 @@ Bigger values are stronger evidence that Alice got more votes than Carol.
 5. Retrieve the ballot with that serial number. The _ballot manifest_ will help you find it: it shows the range of
 serial numbers each precinct contains.
 6. Write the precinct in column 3 of the worksheet, and the position of the ballot within the precinct in column 4 of the worksheet. 
-7. Retrieve a randomly selected card and read the vote from it.
-8. Write the vote in column 5 of the worksheet.
+7. Retrieve a randomly selected card and read the vote.
+    - Write the vote in column 5 of the worksheet
+    - Return card to its original location
+8. Update the running totals based on the audited vote:
     - if it is an undervote or overvote, don't change any running total; return to step 3.
     - if it is a vote for Alice, add 1 to the running totals in columns 6 and 7
     - if it is a vote for Bob, subtract 1.5 from the running total for Alice v Bob (column 6) but don't change the running total for Alice v Carol (column 7)
