@@ -40,17 +40,17 @@ This demo uses sampling _with_ replacement so that the calculations can be done 
 If the same card is selected more than once, there is no need to _retrieve_ it more than once: 
 you already know what vote it shows.
 
-For this demo, the expected number of cards you need to inspect to confirm the outcome is about 47, 
+For this demo, the expected number of cards you need to inspect to confirm the outcome is about 48, 
 including duplicates. 
-(The chance the the number of cards will be 75 or more is about 17.5%.)
+(The chance the the number of cards will be 75 or more is about 18.2%.)
 Because the sample is drawn with replacement, the audit workload depends on the candidates' _shares_
 of the vote, not on the total number of votes or cards cast.
 That is, the number of draws required to confirm the outcome would be expected to be 
-about 47 cards whether there were 100 ballot cards
+about 48 cards whether there were 100 ballot cards
 or 1,000,000 ballot cards in the election.
 The only difference is that when the election is smaller, it's more likely that the sample will contain
 the same card more than once, so the number of cards that have to be _retrieved_ is expected to be smaller.
-Of course, 47 is a much larger fraction of 100 than it is of 1,000,000.
+Of course, 48 is a much larger fraction of 100 than it is of 1,000,000.
 
 The audit is conducted using two running totals, both of which start at zero.
 One running total summarizes the evidence that Alice got more votes than Bob. 

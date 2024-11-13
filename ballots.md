@@ -15,28 +15,6 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [ ] Alice 
 - [ ] Bob 
 - [x] Carol 
@@ -48,6 +26,17 @@
 
 ### (Vote for one)
 
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
 - [x] Alice 
 - [ ] Bob 
 - [ ] Carol 
@@ -71,6 +60,72 @@
 ### (Vote for one)
 
 - [ ] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
 - [ ] Bob 
 - [ ] Carol 
 
@@ -136,50 +191,6 @@
 
 ### (Vote for one)
 
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [x] Alice 
 - [ ] Bob 
 - [ ] Carol 
@@ -213,41 +224,8 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 1**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
+- [ ] Alice 
+- [x] Bob 
 - [ ] Carol 
 
  \newpage
@@ -270,6 +248,28 @@
 
 - [ ] Alice 
 - [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 1**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [ ] Bob 
 - [ ] Carol 
 
  \newpage
@@ -323,28 +323,6 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 2**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 2**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [ ] Alice 
 - [x] Bob 
 - [ ] Carol 
@@ -358,6 +336,17 @@
 
 - [x] Alice 
 - [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 2**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
 - [ ] Carol 
 
  \newpage
@@ -400,56 +389,12 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 2**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 2**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 2**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [ ] Alice 
 - [ ] Bob 
-- [ ] Carol 
+- [x] Carol 
 
  \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
+**Precinct 2**
 
 ## Mayor of Voting Village 
 
@@ -460,18 +405,29 @@
 - [ ] Carol 
 
  \newpage
-**Precinct 3**
+**Precinct 2**
 
 ## Mayor of Voting Village 
 
 ### (Vote for one)
 
-- [x] Alice 
+- [ ] Alice 
 - [ ] Bob 
 - [ ] Carol 
 
  \newpage
-**Precinct 3**
+**Precinct 2**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 2**
 
 ## Mayor of Voting Village 
 
@@ -499,6 +455,39 @@
 
 ### (Vote for one)
 
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
 - [ ] Alice 
 - [x] Bob 
 - [ ] Carol 
@@ -512,6 +501,72 @@
 
 - [ ] Alice 
 - [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 3**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
 - [ ] Carol 
 
  \newpage
@@ -532,50 +587,6 @@
 
 ### (Vote for one)
 
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [x] Alice 
 - [ ] Bob 
 - [ ] Carol 
@@ -588,17 +599,6 @@
 ### (Vote for one)
 
 - [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 3**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
 - [ ] Bob 
 - [ ] Carol 
 
@@ -653,17 +653,6 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [ ] Alice 
 - [x] Bob 
 - [ ] Carol 
@@ -675,19 +664,8 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
+- [ ] Alice 
+- [x] Bob 
 - [ ] Carol 
 
  \newpage
@@ -753,83 +731,6 @@
 ### (Vote for one)
 
 - [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [ ] Bob 
-- [x] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 4**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
 - [ ] Bob 
 - [ ] Carol 
 
@@ -906,8 +807,19 @@
 
 ### (Vote for one)
 
-- [ ] Alice 
-- [x] Bob 
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
 - [ ] Carol 
 
  \newpage
@@ -933,6 +845,171 @@
 - [ ] Carol 
 
  \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 4**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [ ] Alice 
+- [x] Bob 
+- [ ] Carol 
+
+ \newpage
+**Precinct 5**
+
+## Mayor of Voting Village 
+
+### (Vote for one)
+
+- [x] Alice 
+- [ ] Bob 
+- [ ] Carol 
+
+ \newpage
 **Precinct 5**
 
 ## Mayor of Voting Village 
@@ -1005,17 +1082,6 @@
 
 ### (Vote for one)
 
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
 - [ ] Alice 
 - [x] Bob 
 - [ ] Carol 
@@ -1028,72 +1094,6 @@
 ### (Vote for one)
 
 - [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [x] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [ ] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
-- [x] Bob 
-- [ ] Carol 
-
- \newpage
-**Precinct 5**
-
-## Mayor of Voting Village 
-
-### (Vote for one)
-
-- [ ] Alice 
 - [ ] Bob 
 - [ ] Carol 
 
